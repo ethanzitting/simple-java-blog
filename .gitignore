@@ -31,3 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
+data/blogapp.mv.db

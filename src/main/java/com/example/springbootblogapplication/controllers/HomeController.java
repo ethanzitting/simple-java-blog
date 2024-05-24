@@ -1,4 +1,4 @@
-package com.example.springbootblogapplication.controllers;
+ package com.example.springbootblogapplication.controllers;
 
 import com.example.springbootblogapplication.models.Post;
 import com.example.springbootblogapplication.services.PostService;
